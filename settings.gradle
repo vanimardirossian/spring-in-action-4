@@ -1,4 +1,0 @@
-rootProject.name = 'spring-in-action-4'
-include 'aop'
-include 'mvc'
-
